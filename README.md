@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BILLING DASH BOARD**
 
-- 👨‍💻 PORTFOLIO [https://bit.ly/sandeep-portfolio](https://bit.ly/sandeep-portfolio)
+- 👨‍💻 PORTFOLIO [https://bit.ly/sandeep-portfolio](https://myportv2.vercel.app/)
 
 - 📫 How to reach me **2000030196cse@gmail.com, chinnamsandeep30@gmail.com**
 
